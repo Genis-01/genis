@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"genis_package","l":"genisclass.Empleat"},{"p":"genis_package","l":"genisclass"}];updateSearchResults();

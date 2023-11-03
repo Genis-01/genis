@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"genis_package","c":"genisclass.Empleat","l":"Empleat(String, String, double)","u":"%3Cinit%3E(java.lang.String,java.lang.String,double)"},{"p":"genis_package","c":"genisclass","l":"genisclass()","u":"%3Cinit%3E()"},{"p":"genis_package","c":"genisclass.Empleat","l":"pujadaSou(double)"}];updateSearchResults();
